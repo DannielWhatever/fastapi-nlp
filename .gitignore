@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caché de IDE
+.idea/
+
+# Archivos de entorno
+.env
+
+# Archivos de registro
+*.log
+
+# Dependencias instaladas
+venv/
+env/
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de respaldo
+*~
+*.bak
+*.swp
+
+
+
+# exclusiones propias
+/venv-api/
